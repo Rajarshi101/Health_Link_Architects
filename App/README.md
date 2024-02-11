@@ -1,1 +1,1 @@
-This Folder is for App Dev
+This folder is for App Dev
